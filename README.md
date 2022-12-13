@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-lima-3723211b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegolima16)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegolima16&show_icons=true&theme=dracula)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegolima16&show_icons=true&theme=radical)
 
 ## Tecnologias 
 <div style = "display: inline_block"><br/>
